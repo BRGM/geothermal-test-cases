@@ -7,10 +7,10 @@ Welcome to Geothermal Test Cases's documentation!
 =================================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
 
-    test1
+   test1
 
 Indices and tables
 ==================
