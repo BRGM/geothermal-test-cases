@@ -11,3 +11,10 @@ Welcome to Geothermal Test Cases's documentation!
    :caption: Contents:
 
    test1
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
