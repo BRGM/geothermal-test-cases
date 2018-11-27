@@ -10,7 +10,7 @@ Welcome to Geothermal Test Cases's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+    test1
 
 Indices and tables
 ==================
